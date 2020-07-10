@@ -128,7 +128,7 @@ subprojects { project ->
                         }
                         developer {
                             id = "lyndsysimon"
-                            name = "Lyndsy Simon
+                            name = "Lyndsy Simon"
                             email = "lyndsy@lyndsysimon.com"
                         }
                     }
